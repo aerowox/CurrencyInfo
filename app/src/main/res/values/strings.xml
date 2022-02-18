@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyInfo</string>
+    <string name="rqbtn">Request rates</string>
+    <string name="checkBox">Auto refresh (5 min)</string>
+</resources>
