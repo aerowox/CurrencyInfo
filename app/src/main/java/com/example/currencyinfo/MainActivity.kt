@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
             progressBar.visibility = ProgressBar.VISIBLE
             getdata()
             progressBar.visibility = ProgressBar.INVISIBLE
-
         }
 
         val handler = Handler()
